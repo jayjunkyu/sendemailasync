@@ -1,5 +1,5 @@
 # SendEmailAsync
-This is a console app demonstration on how to design an email sending application while not being interrupted by background tasks. In most applications, it is critical that a user not be interrupted or delayed simply because an email is being sent. Some of the constraints that were considered were:
+This is a console app demonstration on how to design an email sending application while not being interrupted by background tasks. In most applications, it is critical that a user not be interrupted or delayed simply because an email is being sent. This demonstration uses the Google SMTP server for convenience. Some of the constraints that were considered were:
 
 - Concise function signature SendMessage(message or messages)
 - Email sender, recipient, subject, and boy, and date stored with status of send attempt (to keep track of which emails to resend).
