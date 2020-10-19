@@ -1,0 +1,16 @@
+C:\Users\jayju\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\jayju\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\jayju\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\jayju\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\jayju\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\MailKit.dll
+C:\Users\jayju\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\MimeKit.dll
+C:\Users\jayju\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\jayju\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\MailKit.pdb
+C:\Users\jayju\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\MailKit.xml
+C:\Users\jayju\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\MimeKit.pdb
+C:\Users\jayju\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\MimeKit.xml
+C:\Users\jayju\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\jayju\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\jayju\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+C:\Users\jayju\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\jayju\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
